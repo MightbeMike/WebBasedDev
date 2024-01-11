@@ -1,0 +1,5 @@
+I created a script using Selenium to automate the mass creation of employee accounts at a previous job.
+The script generated a random password for each account and created an email based on the username input. 
+
+For example, the username "John.danails" would result in the email address "john.D@outlook.com" with a randomly generated password.
+This automation significantly saved time in the workplace.
