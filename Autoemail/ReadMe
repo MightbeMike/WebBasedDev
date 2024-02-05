@@ -1,0 +1,12 @@
+This Python script enables automated email sending through Gmail's SMTP server. 
+It leverages the smtplib library to establish a secure connection to Gmail's SMTP server and the email.mime.
+
+
+text module to construct and format email messages.
+The script allows users to specify the email subject, body, sender's email address, sender's password, and recipient's email address as input parameters. 
+
+By utilizing this script, users can easily automate the process of sending emails from their Gmail accounts,
+
+If you are on linux be sure to fallow the notes in the script
+
+If on windows simply run the sccript with task scheduler or on your server for simple automation
