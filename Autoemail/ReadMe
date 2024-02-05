@@ -1,3 +1,6 @@
+Script I used for work.
+It has many applicaitons as it was used frequently 
+
 This Python script enables automated email sending through Gmail's SMTP server. 
 It leverages the smtplib library to establish a secure connection to Gmail's SMTP server and the email.mime.
 
