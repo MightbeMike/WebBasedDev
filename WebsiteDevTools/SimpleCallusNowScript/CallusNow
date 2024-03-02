@@ -1,4 +1,4 @@
-<!-- Simple Script By MightBeMike -->
+// Simple Script By MightBeMike 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +23,7 @@
     <script>
         // Function to call a phone number
         function callUs() {
-            // Replace '6092660700' with the actual phone number you want to call
+            // Replace '+100000000' with the actual phone number you want to call
             window.location.href = 'tel:+100000000';
         }
     </script>
