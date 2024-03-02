@@ -1,0 +1,31 @@
+<!-- Simple Script By MightBeMike -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call Us Now Button</title>
+    <style>
+        .call-button {
+            background-color: #ff9900; /* Change background color to #ff9900 */
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!-- Button to call a phone number when clicked -->
+    <button class="call-button" onclick="callUs()">Call Us Now</button>
+
+    <script>
+        // Function to call a phone number
+        function callUs() {
+            // Replace '6092660700' with the actual phone number you want to call
+            window.location.href = 'tel:+100000000';
+        }
+    </script>
+</body>
+</html>
